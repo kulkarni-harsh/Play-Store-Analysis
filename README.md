@@ -14,7 +14,8 @@ I have documented the entire process right from dataset sneak peak to complete E
 ## Screenshots
 
 ![App Screenshot](https://miro.medium.com/max/1400/1*NuWYyHXBXjPyp9TOvFjzSQ.png)
-
+![image](https://user-images.githubusercontent.com/70194206/147823458-3011a14e-1542-4a6e-9f8b-1a3c22570d23.png)
+![image](https://user-images.githubusercontent.com/70194206/147823529-320c13b9-7383-4a3b-b607-f17845d35368.png)
 
 ### Summary of PlayStore Analysis:
  *  Most published app Category is "Family" followed by "Game" & "Tools".
