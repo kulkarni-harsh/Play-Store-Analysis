@@ -1,0 +1,13 @@
+{
+  "notebooks": {
+    "EDA.ipynb": {
+      "slug": "c97765fc63764549a1f4f18e1e3b117d"
+    },
+    "Data Cleaning.ipynb": {
+      "slug": "69c84ec604354a209dcc41f75b9a3f90"
+    },
+    "App Data Overview.ipynb": {
+      "slug": "b2eb217dc6a84b5c8149465d5f288259"
+    }
+  }
+}
